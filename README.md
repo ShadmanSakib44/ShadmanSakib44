@@ -8,14 +8,12 @@
 
 🧪 Ongoing research on cross-lingual hallucination in open-weight LLMs (English ↔ Bangla).
 
-🌱 Contributor to [tinygrad](https://github.com/tinygrad/tinygrad).
-
 🎓 BSc in Software Engineering, Islamic University of Technology (IUT), Bangladesh.
 
 ## 🌐 Find Me
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://shadmansakib.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadman-sakib-02798a24a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shadmansakib.bd-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shadmansakib.bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadman-sakib-02798a24a)
 
 ## 🛠️ Tech Stack
 
